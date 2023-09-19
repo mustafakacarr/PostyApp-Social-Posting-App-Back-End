@@ -1,0 +1,17 @@
+server:
+  port: ${PORT:8080}
+spring:
+  datasource:
+    url: jdbc:postgresql://ec2-54-73-22-169.eu-west-1.compute.amazonaws.com:5432/d41k25r32b4uok
+    username: eedwpoppffpand
+    password: 78421b0f6f1aaaaa5cc4c0cda3af517fb7b8a3f75cd52aa55a76a27021bb099d
+  jpa:
+    hibernate:
+      ddl-auto: none
+
+  main:
+    allow-circular-references: true
+
+postyapp.app.secret: postyAppVerySecretKeyAndItHasToKeepToBe0001
+postyapp.expires.in: 36000000
+refresh.token.expires.in: 604800

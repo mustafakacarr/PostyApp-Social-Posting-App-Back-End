@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cf310fa-074b-4d5e-816a-543d6bf9bf8e" name="Changes" comment="port changed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Deployment" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="coding" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UZGurXiMbgF6Vq9KQQAPIvlQts" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/mustafa/Desktop/postyApp Back End",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2724138",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "4c4cc3119e0931035eff39d00deb33e0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tr.mustafakacar.postyApp.requests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn mvn --version" />
+      <command value="mvn --version" />
+      <command value="mvn instal" />
+      <command value="mvn clean" />
+      <command value="mvn install" />
+      <command value="mvn -v" />
+      <command value="mvn clean install " />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PostyAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="postyApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tr.mustafakacar.postyApp.PostyAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cf310fa-074b-4d5e-816a-543d6bf9bf8e" name="Changes" comment="" />
+      <created>1693139915568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693139915568</updated>
+      <workItem from="1693139916694" duration="17970000" />
+      <workItem from="1693245931407" duration="2772000" />
+      <workItem from="1693394195073" duration="6574000" />
+      <workItem from="1693432968757" duration="359000" />
+      <workItem from="1693494185128" duration="71000" />
+      <workItem from="1693495048689" duration="1592000" />
+      <workItem from="1693562328772" duration="23255000" />
+      <workItem from="1693655477015" duration="3094000" />
+      <workItem from="1693762235160" duration="4764000" />
+      <workItem from="1693828816559" duration="9726000" />
+      <workItem from="1693995886757" duration="8847000" />
+      <workItem from="1694787320204" duration="1306000" />
+      <workItem from="1694881980497" duration="8255000" />
+      <workItem from="1694892922351" duration="2424000" />
+      <workItem from="1695130426501" duration="2067000" />
+      <workItem from="1695132506865" duration="11543000" />
+      <workItem from="1695146781885" duration="437000" />
+    </task>
+    <task id="LOCAL-00001" summary="lombok updated">
+      <created>1694892504364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694892504364</updated>
+    </task>
+    <task id="LOCAL-00002" summary="i dont know even what ı changed but it has to end anymore">
+      <created>1694893447989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694893447989</updated>
+    </task>
+    <task id="LOCAL-00003" summary="i still dont know even what ı changed but it has to end anymore">
+      <created>1694893638289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694893638289</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pom xml update">
+      <created>1695131134749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695131134749</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pom xml update">
+      <created>1695131377150</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695131377150</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pom xml and related things update">
+      <created>1695133218393</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695133218393</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pom xml and related things update">
+      <created>1695133406046</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695133406046</updated>
+    </task>
+    <task id="LOCAL-00008" summary="procfile added">
+      <created>1695134469250</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695134469250</updated>
+    </task>
+    <task id="LOCAL-00009" summary="procfile update">
+      <created>1695135070488</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695135070488</updated>
+    </task>
+    <task id="LOCAL-00010" summary="procfile update">
+      <created>1695135519605</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695135519605</updated>
+    </task>
+    <task id="LOCAL-00011" summary="procfile update">
+      <created>1695135925204</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1695135925204</updated>
+    </task>
+    <task id="LOCAL-00012" summary="port changed">
+      <created>1695137359230</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695137359230</updated>
+    </task>
+    <task id="LOCAL-00013" summary="port changed">
+      <created>1695137592305</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695137592305</updated>
+    </task>
+    <task id="LOCAL-00014" summary="port changed">
+      <created>1695137728527</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695137728527</updated>
+    </task>
+    <task id="LOCAL-00015" summary="port changed">
+      <created>1695138103709</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695138103709</updated>
+    </task>
+    <task id="LOCAL-00016" summary="port changed">
+      <created>1695138233906</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695138233906</updated>
+    </task>
+    <task id="LOCAL-00017" summary="port changed">
+      <created>1695139054596</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695139054596</updated>
+    </task>
+    <task id="LOCAL-00018" summary="port changed">
+      <created>1695139496072</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695139496072</updated>
+    </task>
+    <task id="LOCAL-00019" summary="port changed">
+      <created>1695140056957</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1695140056957</updated>
+    </task>
+    <task id="LOCAL-00020" summary="port changed">
+      <created>1695140266807</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1695140266807</updated>
+    </task>
+    <task id="LOCAL-00021" summary="port changed">
+      <created>1695140355053</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1695140355053</updated>
+    </task>
+    <task id="LOCAL-00022" summary="port changed">
+      <created>1695140395068</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1695140395068</updated>
+    </task>
+    <task id="LOCAL-00023" summary="port changed">
+      <created>1695141043144</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1695141043144</updated>
+    </task>
+    <task id="LOCAL-00024" summary="port changed">
+      <created>1695141445955</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1695141445955</updated>
+    </task>
+    <task id="LOCAL-00025" summary="port changed">
+      <created>1695141677241</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1695141677241</updated>
+    </task>
+    <task id="LOCAL-00026" summary="port changed">
+      <created>1695141845426</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1695141845426</updated>
+    </task>
+    <task id="LOCAL-00027" summary="port changed">
+      <created>1695142011403</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1695142011403</updated>
+    </task>
+    <task id="LOCAL-00028" summary="port changed">
+      <created>1695142072384</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1695142072384</updated>
+    </task>
+    <task id="LOCAL-00029" summary="port changed">
+      <created>1695143021561</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1695143021561</updated>
+    </task>
+    <task id="LOCAL-00030" summary="port changed">
+      <created>1695143723833</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1695143723833</updated>
+    </task>
+    <task id="LOCAL-00031" summary="port changed">
+      <created>1695143948935</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1695143948935</updated>
+    </task>
+    <task id="LOCAL-00032" summary="port changed">
+      <created>1695144450950</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1695144450950</updated>
+    </task>
+    <task id="LOCAL-00033" summary="port changed">
+      <created>1695144774927</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1695144774927</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lombok updated" />
+    <MESSAGE value="i dont know even what ı changed but it has to end anymore" />
+    <MESSAGE value="i still dont know even what ı changed but it has to end anymore" />
+    <MESSAGE value="pom xml update" />
+    <MESSAGE value="pom xml and related things update" />
+    <MESSAGE value="procfile added" />
+    <MESSAGE value="procfile update" />
+    <MESSAGE value="port changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="port changed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tr/mustafakacar/postyApp/services/UserService.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tr/mustafakacar/postyApp/services/UserService.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tr/mustafakacar/postyApp/services/CommentService.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tr/mustafakacar/postyApp/services/CommentService.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tr/mustafakacar/postyApp/services/CommentService.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tr/mustafakacar/postyApp/services/LikeService.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tr/mustafakacar/postyApp/services/LikeService.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tr/mustafakacar/postyApp/security/JwtAuthenticationFilter.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
