@@ -16,6 +16,7 @@ Hi! PostyApp is an essential social media application. I aim to develop it as co
 For going to the  front end repository, [click here](https://github.com/mustafakacarr/PostyApp-Social-Posting-App-Front-End).
  - **ReactJS**
  - Redux
+
   It will store user datas with token in localStorage. 
  
 **DevOps**
