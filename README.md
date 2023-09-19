@@ -1,12 +1,13 @@
 
+
 # PostyApp Social Posting App
 
 Hi! PostyApp is an essential social media application. I aim to develop it as containing ordinary features for now but I can add new features in time. Below things used;
 
 **Back End**
 
- - **Spring**
- - Swagger (for documentation schema)
+ - **Spring Boot**
+ - Swagger (and also you can see API Endpoint Schema via [this link](https://postyapp-04194dc6a480.herokuapp.com/swagger-ui/index.html#))
  - Spring Security for auth
  - JWT for auth
  
@@ -15,7 +16,14 @@ Hi! PostyApp is an essential social media application. I aim to develop it as co
 For going to the  front end repository, [click here](https://github.com/mustafakacarr/PostyApp-Social-Posting-App-Front-End).
  - **ReactJS**
  - Redux
- It will store user datas with token in localStorage. 
+  It will store user datas with token in localStorage. 
+ 
+**DevOps**
+ - Heroku (For BE deployment)
+ - Vercel (For FE deployment)
+ - Docker
+ - Kubernetes
+
  And thats all for now. 
  
 # Features
